@@ -3,11 +3,11 @@ export const APP_ID = `${process.env.NEXT_PUBLIC_APP_ID}`
 export const API_KEY = `${process.env.NEXT_PUBLIC_APP_KEY}`
 export const API_URL = `${process.env.NEXT_PUBLIC_API_URL}`
 export const APP_INFO: AppInfo = {
-  title: 'Text Generator APP',
-  description: 'App description',
-  copyright: '',
+  title: 'Fully SEO Optimized Article',
+  description: 'Powered by RJ',
+  copyright: 'RJ',
   privacy_policy: '',
-  default_language: 'zh-Hans',
+  default_language: 'th-TH',
 }
 
 export const API_PREFIX = '/api'
